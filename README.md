@@ -35,10 +35,10 @@ MAX_CONTEXT_MESSAGES=10
 docker run -d --name my-mongo-database -p 27017:27017 mongo
 ```
 
-5. **Start with Node.js**
+5. **Run Chat**
 
 ```
-npm start
+ npm run dev
 ```
 
 ## Used
