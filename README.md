@@ -9,7 +9,7 @@ Backend web server based on Node.js + Fastify + Mongodb to interact with AI (Ope
 1. **Clone the repo**
 
 ```
-git clone <repo_url>
+git clone git@github.com:YanaYB/chat.git
 ```
 
 2. **Install dependencies**
@@ -35,10 +35,10 @@ MAX_CONTEXT_MESSAGES=10
 docker run -d --name my-mongo-database -p 27017:27017 mongo
 ```
 
-5. **Start with Node.js**
+5. **Run Chat**
 
 ```
-npm start
+ npm run dev
 ```
 
 ## Used
