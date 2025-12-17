@@ -9,7 +9,7 @@ Backend web server based on Node.js + Fastify + Mongodb to interact with AI (Ope
 1. **Clone the repo**
 
 ```
-git clone <repo_url>
+git clone git@github.com:YanaYB/chat.git
 ```
 
 2. **Install dependencies**
