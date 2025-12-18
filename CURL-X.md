@@ -35,6 +35,6 @@ curl -X POST http://localhost:3000/messages
 
 4. **Get chat messages (history)**
 ```
-curl -X GET "http://localhost:3000/messages?chatId=..." \
+curl -X GET "http://localhost:3000/messages?chatId=...
 -H "user-id: user-1"
 ```
